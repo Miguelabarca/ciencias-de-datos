@@ -41,5 +41,5 @@ herramientas comunes y realizaremos ejemplos simples de programación en Python.
 - `(8 + 2) * 3`
 
 
-# Ejercicio 11 - Nombre del Autor
+# Nombre del Autor
 **Autor:** Miguel Abarca
